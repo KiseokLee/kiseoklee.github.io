@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello world.
-How are you doing? Thanks for visiting my website.
-
 <p align="center">
   <img src="https://kiseoklee.github.io/images/kiseok_profile.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
