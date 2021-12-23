@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://kiseoklee.github.io/images/kiseok_profile.png?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
+#<p align="center">
+#  <img src="https://kiseoklee.github.io/images/kiseok_profile.png?raw=true" alt="Photo" style="width: 450px;"/> 
+#</p>
 
 # About Kiseok Lee
 * I am a Ph.D. student in the [Ecology & Evolution Department](https://ecologyandevolution.uchicago.edu/) at [University of Chicago](https://www.uchicago.edu/), advised by Dr. [Seppe Kuehn](https://www.kuehnlab.org/). 
