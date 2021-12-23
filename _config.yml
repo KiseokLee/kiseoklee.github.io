@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kiseok Lee"
   avatar           : "kiseok_profile.png"
-  bio              : "Microbiome research"
+  bio              : "Microbiome research at University of Chicago, Ecology & Evolution, Seppe Kuehn lab"
   location         : "University of Chicago"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UcMtC88AAAAJ&hl=en"
-  email            :
+  email            : "kiseoklee@uchicago.edu"
   researchgate     : # "https://www.researchgate.net/profile/Kiseok-Lee-3/"
   uri              :
   bitbucket        :
