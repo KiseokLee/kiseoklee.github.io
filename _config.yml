@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UcMtC88AAAAJ&hl=en"
-  email            : "kiseoklee@uchicago.edu"
+  email            : # "kiseoklee@uchicago.edu"
   researchgate     : # "https://www.researchgate.net/profile/Kiseok-Lee-3/"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KiseokLee"
+  github           : # "KiseokLee"
   google_plus      :
   keybase          :
   instagram        :
