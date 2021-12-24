@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-#<p align="center">
-#  <img src="https://kiseoklee.github.io/images/kiseok_profile.png?raw=true" alt="Photo" style="width: 450px;"/> 
-#</p>
-
 # About Kiseok Lee
 * I am a Ph.D. student in the [Ecology & Evolution Department](https://ecologyandevolution.uchicago.edu/) at [University of Chicago](https://www.uchicago.edu/), advised by Dr. [Seppe Kuehn](https://www.kuehnlab.org/). 
 * My research is focused on understanding the microbial ecology that govern the functional aspects of the microbiome via modeling and experimental validations. The goal is to engineer the emergent properties of the microbial community for desired traits.<br>
