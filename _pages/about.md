@@ -31,7 +31,7 @@ Given the infinite combinations of microbes, we need systematic ways to identify
 * Yousef, M., **Lee, K. K.**, Tang, J., Charisopoulos, V., Willett, R., & Kuehn, S. (2025). Collective Microbial Effects Drive Toxin Bioremediation and Enable Rational Design. bioRxiv, 2025-03. [bioRxiv link](https://www.biorxiv.org/content/10.1101/2025.03.28.645802v1.abstract)
 * Oliveira, R. A., Pandey, B., **Lee, K. K.**, Yousef, M., Chen, R. Y., Triebold, C., ... & Raman, A. S. (2024). Statistical design of a synthetic microbiome that clears a multi-drug resistant gut pathogen. bioRxiv, 2024-02. [bioRxiv link](https://www.biorxiv.org/content/10.1101/2024.02.28.582635v1.abstract)
 
-## Crop microbiome project: 
+## Crop microbiome project: How do natural communities assemble?
 It is of vast interest how microbial communities assemble in nature. Is it acquired from the environment or vertically transferred? We answer this question with the rice microbiome system during my Bachelor’s Degree in [Seoul National University](https://en.snu.ac.kr/), advised by Dr. [Yong-Hwan Lee](http://www.riceblast.snu.ac.kr/aboutus.php). Below are pertinent publications.
 * Kim, H., **Lee, K. K.** (co-first), Jeon, J., Harris, W. A., & Lee, Y. H. (2020). Domestication of Oryza species eco-evolutionarily shapes bacterial and fungal communities in rice seed. *Microbiome*, 8(1), 20. [Microbiome link](https://link.springer.com/article/10.1186/s40168-020-00805-0)
 * **Lee, K. K.**, Kim, H., & Lee, Y. H. (2022). Cross-kingdom co-occurrence networks in the plant microbiome: Importance and ecological interpretations. Frontiers in microbiology, 13, 953300. [link](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.953300/full)
