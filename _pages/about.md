@@ -17,12 +17,13 @@ My research program addresses this lack of functional robustness, one of microbi
 ## Vaginal microbiome engineering project 
 I am currently devising novel strategies to engineer the vaginal microbiome using synthetic biology to treat Bacterial Vaginosis as a postdoctoral scholar at the University of Delaware, [Chemical & Biomolecular Engineering](https://cbe.udel.edu/), advised by Dr. [Aditya Kunjapur](https://www.kunjapurlab.org/) and Dr. [Jacques Ravel](https://www.medschool.umaryland.edu/profiles/ravel-jacques/) at the University of Maryland School of Medicine in Baltimore, Maryland.
 
+## Soil microbiome project: How do community function respond to environmental change? 
+
 ![Alt text](/images/Figure1_experimental_design_muted_color_grid_more_dynamics_soils_seppe_feedback_regime_abc_240522_10.jpg)
 
-## Soil microbiome project: How do community function respond to environmental change? 
 It is vital to understand how community function responds to abiotic environmental change, as a first step to design environmentally robust community functions. I did my Ph.D. at [University of Chicago](https://www.uchicago.edu/), [Ecology & Evolution Department](https://ecologyandevolution.uchicago.edu/), advised by Dr. [Seppe Kuehn](https://www.kuehnlab.org/) and Dr. [Madhav Mani](https://www.madhavmani.com/) at Northwestern University. Below are pertinent publications. [[Full publication list: Google Scholar](https://scholar.google.com/citations?user=UcMtC88AAAAJ&hl=en)]
 * Lee, K. K., Liu, S., Crocker, K., Wang, J., Huggins, D. R., Tikhonov, M., ... & Kuehn, S. (2025). Functional regimes define soil microbiome response to environmental change. *Nature*, 644(8078), 1028-1038. [Nature link](https://www.nature.com/articles/s41586-025-09264-9)
-* Crocker, K., Lee, K. K., Chakraverti-Wuerthwein, M., Li, Z., Tikhonov, M., Mani, M., ... & Kuehn, S. (2024). Environmentally dependent interactions shape patterns in gene content across natural microbiomes. Nature microbiology, 9(8), 2022-2037. [Nature Microbiology link](https://www.nature.com/articles/s41564-024-01752-4)
+* Crocker, K., Lee, K. K., Chakraverti-Wuerthwein, M., Li, Z., Tikhonov, M., Mani, M., ... & Kuehn, S. (2024). Environmentally dependent interactions shape patterns in gene content across natural microbiomes. *Nature microbiology*, 9(8), 2022-2037. [Nature Microbiology link](https://www.nature.com/articles/s41564-024-01752-4)
 * Lee, K. K., Park, Y., & Kuehn, S. (2023). Robustness of microbiome function. Current Opinion in Systems Biology, 36, 100479. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S2452310023000367)
 
 ## Microbiome design project: How do we statistically design emergent functions? 
@@ -31,6 +32,7 @@ Given the infinite combinations of microbes, we need systematic ways to identify
 * Oliveira, R. A., Pandey, B., Lee, K., Yousef, M., Chen, R. Y., Triebold, C., ... & Raman, A. S. (2024). Statistical design of a synthetic microbiome that clears a multi-drug resistant gut pathogen. bioRxiv, 2024-02. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.28.582635v1.abstract)
 
 ## Crop microbiome project: 
-I received my Bachelor’s Degree in [Seoul National University](https://en.snu.ac.kr/), advised by Dr. [Yong-Hwan Lee](http://www.riceblast.snu.ac.kr/aboutus.php). Below are pertinent publications.
-* 
+It is of vast interest how microbial communities assemble in nature. Is it acquired from the environment or vertically transferred? We answer this question with the rice microbiome system during my Bachelor’s Degree in [Seoul National University](https://en.snu.ac.kr/), advised by Dr. [Yong-Hwan Lee](http://www.riceblast.snu.ac.kr/aboutus.php). Below are pertinent publications.
+* Kim, H., Lee, K. K., Jeon, J., Harris, W. A., & Lee, Y. H. (2020). Domestication of Oryza species eco-evolutionarily shapes bacterial and fungal communities in rice seed. *Microbiome*, 8(1), 20. [Microbiome link](https://link.springer.com/article/10.1186/s40168-020-00805-0)
+* Kim, H., Jeon, J., Lee, K. K., & Lee, Y. H. (2022). Longitudinal transmission of bacterial and fungal communities from seed to seed in rice. Communications Biology, 5(1), 772. [Communications Biology link](https://www.nature.com/articles/s42003-022-03726-w)
 
