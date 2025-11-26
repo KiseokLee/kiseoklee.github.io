@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kiseok Lee / Microbiome researcher"
+title                    : "Kiseok (Keith) Lee"
 title_separator          : "-"
-name                     : &name "Kiseok Lee"
-description              : &description "University of Chicago, PhD student"
+name                     : &name "Kiseok (Keith) Lee"
+description              : &description "How can we design robust community functions? Postdoc at UDel in Aditya Kunjapur lab / PhD at UChicago in Seppe Kuehn lab"
 url                      : https://kiseoklee.github.io # the base hostname & protocol for your site e.g. "https://kiseoklee.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kiseoklee.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kiseok Lee"
-  avatar           : "kiseok_profile.png"
-  bio              : "Microbiome research at University of Chicago, Ecology & Evolution, Seppe Kuehn lab"
-  location         : "University of Chicago"
+  name             : "Kiseok (Keith) Lee"
+  avatar           : "Lee Kiseok-3_edited.jpg"
+  bio              : "How can we design robust community functions? Postdoc at UDel in Aditya Kunjapur lab / PhD at UChicago in Seppe Kuehn lab"
+  location         : "University of Delaware, Chemical & Biomolecular Engineering"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UcMtC88AAAAJ&hl=en"
-  email            : # "kiseoklee@uchicago.edu"
+  email            : # "kiseokkeithlee@gmail.com"
   researchgate     : # "https://www.researchgate.net/profile/Kiseok-Lee-3/"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "https://bsky.app/profile/kiseokmicro.bsky.social"
 
 
 # Reading Files
