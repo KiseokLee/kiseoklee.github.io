@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Ecology & Evolution Department, University of Chicago <br>
-Gordon Center for Integrated Science 929 E. 57th St. Chicago, IL 60637<br>
-Email: kiseoklee [at] uchicago.edu<br>
+University of Delaware, Chemical & Biomolecular Engineering<br>
+150 Academy Street Colburn Laboratory Newark, Delaware 19716<br>
+Email: kiseokkeithlee [at] gmail.com<br>
 Linkedin: [linkedin.com/in/kiseokkeithlee/](https://www.linkedin.com/in/kiseokkeithlee/)
