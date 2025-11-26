@@ -38,5 +38,11 @@ It is of vast interest how microbial communities assemble in nature. Is it acqui
 * Bak, G. R., **Lee, K. K.**, Clark, I. M., Mauchline, T. H., Kavamura, V. N., Jee, S., ... & Lee, Y. H. (2025). Changes in the potato rhizosphere microbiota richness and diversity occur in a growth stage-dependent manner. Scientific Reports, 15(1), 2284. [link](https://www.nature.com/articles/s41598-025-86944-6)
 * Kim, H., Jeon, J., **Lee, K. K.**, & Lee, Y. H. (2022). Longitudinal transmission of bacterial and fungal communities from seed to seed in rice. Communications Biology, 5(1), 772. [link](https://www.nature.com/articles/s42003-022-03726-w)
 * Kim, H., Jeon, J., **Lee, K. K.**, & Lee, Y. H. (2021). Compositional shift of bacterial, archaeal, and fungal communities is dependent on trophic lifestyles in rice paddy soil. Frontiers in Microbiology, 12, 719486. [link](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.719486/full)
+ 
+
+
+## Contact
+If you have any inquiries, please contact me at kiseokkeithlee@gmail.com or kiseok@udel.edu
+
 
 
