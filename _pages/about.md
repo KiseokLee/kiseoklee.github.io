@@ -15,7 +15,7 @@ Microbes inhabit agricultural soils, crops, and human mucosal systems, shaping t
 My research program addresses this lack of functional robustness, one of microbiome science’s greatest obstacles, as we integrate high-throughput metabolite measurements, modeling, machine learning, and synthetic biology to enable the design of robust microbiome function.
 
 ## Vaginal microbiome engineering project 
-I am currently devising novel strategies to engineer the vaginal microbiome using synthetic biology to treat Bacterial Vaginosis as a postdoctoral scholar at the University of Delaware, [Chemical & Biomolecular Engineering](https://cbe.udel.edu/), advised by Dr. [Aditya Kunjapur](https://www.kunjapurlab.org/) and Dr. [Jacques Ravel](https://www.medschool.umaryland.edu/profiles/ravel-jacques/) at the University of Maryland School of Medicine in Baltimore, Maryland.
+I am currently devising synthetic biology solutions to engineer the vaginal microbiome to treat Bacterial Vaginosis as a postdoctoral scholar at the University of Delaware, [Chemical & Biomolecular Engineering](https://cbe.udel.edu/), advised by Dr. [Aditya Kunjapur](https://www.kunjapurlab.org/) and Dr. [Jacques Ravel](https://www.medschool.umaryland.edu/profiles/ravel-jacques/) at the University of Maryland School of Medicine in Baltimore, Maryland.
 
 ## Soil microbiome project: How do community function respond to environmental change? 
 
