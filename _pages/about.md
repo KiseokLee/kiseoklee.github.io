@@ -18,7 +18,7 @@ My research program addresses this lack of functional robustness, one of microbi
 I am currently devising synthetic biology solutions to engineer the vaginal microbiome to treat Bacterial Vaginosis as a postdoctoral scholar at the University of Delaware, [Chemical & Biomolecular Engineering](https://cbe.udel.edu/), advised by Dr. [Aditya Kunjapur](https://www.kunjapurlab.org/) and Dr. [Jacques Ravel](https://www.medschool.umaryland.edu/profiles/ravel-jacques/) at the University of Maryland School of Medicine in Baltimore, Maryland.
 
 ## Soil microbiome project: How do community function respond to environmental change? 
-[Figure 1 in Lee *et al.*, Nature, 2025](https://www.nature.com/articles/s41586-025-09264-9)
+[Figure 1 in Lee *et al.*, *Nature*, 2025](https://www.nature.com/articles/s41586-025-09264-9)
 ![Alt text](/images/Figure1_experimental_design_muted_color_grid_more_dynamics_soils_seppe_feedback_regime_abc_240522_10.jpg)
 
 It is vital to understand how community function responds to abiotic environmental change, as a first step to design environmentally robust community functions. I investigated this during my Ph.D. at the University of Chicago, [Ecology & Evolution Department](https://ecologyandevolution.uchicago.edu/), advised by Dr. [Seppe Kuehn](https://www.kuehnlab.org/) and Dr. [Madhav Mani](https://www.madhavmani.com/) at Northwestern University. Below are pertinent publications.
